@@ -14,7 +14,7 @@
 
 ## 🛠️ My Work Updates
 - 🔭 Currently working on **a Social Media + Tour Guide App**  
-- 🌱 Learning **JavaScript (advanced), React, C++, and AI frameworks**  
+- 🌱 Learning **JavaScript (advanced), React, C++, Python and AI frameworks**  
 - 👯 Looking to collaborate on **AI-driven applications and secure systems**  
 - 🛡️ Exploring **cybersecurity challenges & solutions**  
 
