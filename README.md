@@ -1,31 +1,32 @@
 # Hi there 👋, I'm Mehedi  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=435&lines=Information+Technology+Student;AI+%7C+Cybersecurity+%7C+IoT+Enthusiast;Love+Coding+%26+Learning+New+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=700&lines=Web+Development+💻;App+Development+📱;Artificial+Intelligence+🤖;Cybersecurity+🔐)](https://git.io/typing-svg)
 
 ---
 
 ## 🚀 About Me
 - 🎓 Major in **Information Technology**  
-- 💻 Interested in **Artificial Intelligence, Cybersecurity, IoT, and App Development**  
-- 📈 Always exploring **new technologies & problem-solving**  
-- 🌍 Open to **collaboration on innovative projects**  
+- 💻 Passionate about **Web Development, App Development, AI, and Cybersecurity**  
+- 📈 Always exploring **scalable solutions and emerging technologies**  
+- 🌍 Open to **collaboration on innovative tech projects**  
 
 ---
 
 ## 🛠️ My Work Updates
-- 🔭 Currently working on **Web & Mobile App Projects**  
-- 🌱 Learning **Advanced JavaScript, C++, and AI Frameworks**  
-- 👯 Looking to collaborate on **Social Media & Tour Guide App Idea**  
-- 📖 Actively sharing **tech tips & tutorials**  
+- 🔭 Currently working on **a Social Media + Tour Guide App**  
+- 🌱 Learning **JavaScript (advanced), React, C++, and AI frameworks**  
+- 👯 Looking to collaborate on **AI-driven applications and secure systems**  
+- 🛡️ Exploring **cybersecurity challenges & solutions**  
 
 ---
 
 ## 💡 Interests & Hobbies
-- 🖥️ Exploring **AI, Cybersecurity, and IoT applications**  
-- 📚 Reading tech blogs & research papers  
-- 🎮 Playing strategy-based video games  
-- 🎵 Listening to music while coding  
-- ✈️ Travelling & discovering new cultures  
+- 🖥️ Building **Web & Mobile Apps**  
+- 🤖 Experimenting with **Artificial Intelligence projects**  
+- 🔐 Practicing **Cybersecurity & Ethical Hacking**  
+- 📚 Reading **tech blogs & research papers**  
+- 🎮 Gaming & problem-solving puzzles  
+- ✈️ Travelling & photography  
 
 ---
 
@@ -57,7 +58,12 @@
 
 ---
 
-## ✨ Fun Fact
-⚡ *"Code + Coffee = Perfect Morning"* ☕
+## 🐍 Contribution Animation
+<p align="center">
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ---
+
+## ✨ Fun Quote
+⚡ *"Secure the future with code, intelligence, and creativity."*  
