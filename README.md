@@ -14,7 +14,7 @@
 
 ## 🛠️ My Work Updates
 - 🔭 Currently working on **a Social Media + Tour Guide App**  
-- 🌱 Learning **JavaScript (advanced), React, C++, Python and AI frameworks**  
+- 🌱 Learning **JavaScript (advanced), React, C++, Python, and AI frameworks**  
 - 👯 Looking to collaborate on **AI-driven applications and secure systems**  
 - 🛡️ Exploring **cybersecurity challenges & solutions**  
 
@@ -33,16 +33,16 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naimulislammehedi&show_icons=true&theme=tokyonight" height="160" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naimulislammehedi&theme=tokyonight" height="160" alt="streak graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naimulislammehedi&theme=react-dark&hide_border=true" alt="activity graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimulislammehedi&layout=compact&theme=tokyonight" height="160" alt="languages graph" />
 </p>
 
 ---
@@ -60,7 +60,7 @@
 
 ## 🐍 Contribution Animation
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/naimulislammehedi/naimulislammehedi/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
