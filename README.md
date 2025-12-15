@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Mehedi  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=700&lines=Web+Development+💻;App+Development+📱;Artificial+Intelligence+🤖;Cybersecurity+🔐)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=700&lines=Web+Development+💻;Computer+Networking🖥;Cybersecurity+🔐)](https://git.io/typing-svg)
 
 ---
 
