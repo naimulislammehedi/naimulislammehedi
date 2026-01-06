@@ -5,8 +5,8 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Major in **Information Technology**  
-- 💻 Passionate about **Web Development, App Development, AI, and Cybersecurity**  
+- 🎓 Major in **Artificial Intelligence**  
+- 💻 Passionate about **Web Development, Cybersecurity, Artificial Intelligence**  
 - 📈 Always exploring **scalable solutions and emerging technologies**  
 - 🌍 Open to **collaboration on innovative tech projects**  
 
