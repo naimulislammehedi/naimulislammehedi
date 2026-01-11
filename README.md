@@ -47,11 +47,11 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naimulislammehedi&show_icons=true&theme=tokyonight&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naimulislammehedi&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naimulislammehedi&theme=tokyonight" height="170" />
+  <img src="https://streak-stats.demolab.com?user=naimulislammehedi&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -59,7 +59,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naimulislammehedi&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naimulislammehedi&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
