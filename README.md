@@ -1,69 +1,101 @@
-# Hi there 👋, I'm Mehedi  
+# 👋 Hi, I’m Mehedi  
+### Full-Stack Web Developer | Building End-to-End Web Applications
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=700&lines=Web+Development+💻;Cybersecurity+🔐;Artificial+Intelligence+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=4A90E2&center=true&vCenter=true&width=900&lines=Full-Stack+Web+Developer+🚀;Frontend+%2B+Backend+Development;Clean+Code+%7C+Scalable+Architecture+%7C+Real+Projects)](https://git.io/typing-svg)
 
 ---
 
 ## 🚀 About Me
-- 🎓 Major in **Artificial Intelligence**  
-- 💻 Passionate about **Web Development, Cybersecurity, Artificial Intelligence**  
-- 📈 Always exploring **scalable solutions and emerging technologies**  
-- 🌍 Open to **collaboration on innovative tech projects**  
+- 💻 Full-Stack Web Developer **in progress**
+- 🧱 Building **both frontend and backend** systems
+- ⚙️ Focused on **real projects, not tutorials only**
+- 🧠 Learning system design, APIs, databases, and UI together
+- 🌍 Open to **collaboration, internships, and freelance work**
 
 ---
 
-## 🛠️ My Work Updates
-- 🔭 Currently working on **a Social Media + Tour Guide App**  
-- 🌱 Learning **JavaScript (advanced), React, C++, Python, and AI frameworks**  
-- 👯 Looking to collaborate on **AI-driven applications and secure systems**  
-- 🛡️ Exploring **cybersecurity challenges & solutions**  
+## 🛠️ Tech Stack
+
+### Frontend
+- HTML5, CSS3, Tailwind CSS  
+- JavaScript (ES6+), React  
+
+### Backend
+- Node.js, Express.js  
+- REST APIs, MongoDB  
+
+### Tools & Workflow
+- Git & GitHub  
+- Figma → Code  
+- VS Code, Chrome DevTools  
 
 ---
 
-## 💡 Interests & Hobbies
-- 🖥️ Building **Web & Mobile Apps**  
-- 🤖 Experimenting with **Artificial Intelligence projects**  
-- 🔐 Practicing **Cybersecurity & Ethical Hacking**  
-- 📚 Reading **tech blogs & research papers**  
-- 🎮 Gaming & problem-solving puzzles  
-- ✈️ Travelling & photography  
+## 📌 Featured Repositories
+> Projects that show full-stack thinking
+
+- 🔹 Frontend Projects (UI, responsiveness, accessibility)
+- 🔹 JavaScript Logic & DOM Projects
+- 🔹 React Applications (state, hooks, components)
+- 🔹 Backend APIs (CRUD, authentication, REST)
+- 🔹 Full-Stack Mini Apps (Frontend + Backend)
+
+⬇️ **Check pinned repositories below** ⬇️
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naimulislammehedi&show_icons=true&theme=tokyonight" height="160" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naimulislammehedi&theme=tokyonight" height="160" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naimulislammehedi&show_icons=true&theme=tokyonight&rank_icon=github" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naimulislammehedi&theme=react-dark&hide_border=true" alt="activity graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naimulislammehedi&theme=tokyonight" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimulislammehedi&layout=compact&theme=tokyonight" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimulislammehedi&layout=compact&theme=tokyonight" height="160" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naimulislammehedi&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Progress & Signals
+- ✅ Full-stack learning path (frontend + backend)
+- ✅ Consistent GitHub activity
+- ✅ Real projects with increasing complexity
+- ✅ Clean repo structure & commit history
 
 ---
 
 ## 🌐 Connect With Me
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🐍 Contribution Animation
+## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/naimulislammehedi/naimulislammehedi/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/naimulislammehedi/naimulislammehedi/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## ✨ Fun Quote
-⚡ *"Secure the future with code, intelligence, and creativity."*  
+## ⚡ Developer Mindset
+> *“Understand the full system. Build end-to-end. Improve every iteration.”*
