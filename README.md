@@ -58,9 +58,9 @@ Projects that demonstrate **full-stack thinking**:
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naimulislammehedi&show_icons=true&theme=tokyonight" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=naimulislammehedi&theme=tokyonight" />
@@ -109,13 +109,13 @@ Projects that demonstrate **full-stack thinking**:
 </p>
 
 ---
-
+<!--
 ## 🐍 Contribution Snake
-<p align="center">
+ <p align="center">
   <img src="https://raw.githubusercontent.com/naimulislammehedi/naimulislammehedi/output/github-contribution-grid-snake.svg" />
-</p>
+</p> 
 
----
+--- -->
 
 ## ⚡ Developer Mindset
 > *“Understand the whole system. Build end-to-end. Improve every iteration.”*
