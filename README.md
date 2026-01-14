@@ -94,13 +94,13 @@ Projects that demonstrate **full-stack thinking**:
   <a href="mailto:mehedi.interface@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https://www.linkedin.com/in/naimulislammehedi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/your-facebook-username" target="_blank">
+  <a href="https://www.facebook.com/naimulislammehedi1/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@your-youtube-handle" target="_blank">
+  <a href="https://www.youtube.com/@naimulislammehedi" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://github.com/naimulislammehedi" target="_blank">
