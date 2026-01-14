@@ -62,9 +62,9 @@ Projects that demonstrate **full-stack thinking**:
   <img src="https://github-readme-stats.vercel.app/api?username=naimulislammehedi&show_icons=true&theme=tokyonight" />
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=naimulislammehedi&theme=tokyonight" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=naimulislammehedi&theme=tokyo-night&hide_border=true" />
