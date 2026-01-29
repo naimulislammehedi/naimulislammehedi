@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Mehedi 
 ### Web Developer | Building End-to-End Web Applications 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=4A90E2&center=true&vCenter=true&width=900&lines=Full-Stack+Web+Developer+🚀;Frontend+%2B+Backend+Development;Clean+Code+%7C+Scalable+Architecture+%7C+Real+Projects)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=4A90E2&center=true&vCenter=true&width=900&lines=Web+Developer+🚀;Frontend+%2B+Backend+Development;Clean+Code+%7C+Scalable+Architecture+%7C+Real+Projects)](https://git.io/typing-svg) 
 ---
 
 ## 🧠 Developer Snapshot
