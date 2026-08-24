@@ -1,70 +1,183 @@
-# 👋 Hi, I’m Mehedi 
-### Web Developer | Building End-to-End Web Applications 
+# 👋 Hi, I’m Mehedi
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=4A90E2&center=true&vCenter=true&width=900&lines=Web+Developer+🚀;Frontend+%2B+Backend+Development;Clean+Code+%7C+Scalable+Architecture+%7C+Real+Projects)](https://git.io/typing-svg) 
+### Software Engineer | Full-Stack Developer | Python Backend Developer
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=24\&duration=3000\&pause=800\&color=4A90E2\&center=true\&vCenter=true\&width=900\&lines=Software+Engineer+%F0%9F%9A%80;Full-Stack+%7C+Backend+%7C+Python;Building+Scalable+%26+Production-Ready+Systems;DSA+%7C+System+Design+%7C+Software+Engineering)](https://git.io/typing-svg)
+
 ---
 
 ## 🧠 Developer Snapshot
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full--Stack-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Projects-Real%20World-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Python%20%7C%20FastAPI-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Mindset-System%20Thinking-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Building%20%26%20Improving-orange?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- 💻 Full-Stack Web Developer in progress  
-- 🧱 Building **frontend + backend systems together**
-- ⚙️ Focused on **real projects**, not tutorial-only learning
-- 🧠 Learning APIs, databases, authentication, and UI as one system
-- 🌍 Open to collaboration, internships, and freelance work
+
+* 💻 Software Engineer focused on **full-stack and backend development**
+* 🐍 Building backend systems with **Python & FastAPI**
+* ⚛️ Building modern web interfaces with **React & JavaScript**
+* 🗄️ Designing relational databases with **PostgreSQL**
+* 🧠 Strong foundation in **C/C++, DSA, algorithms & problem solving**
+* 🏗️ Interested in **software architecture, scalable systems & system design**
+* 🧪 Focused on **testing, debugging, clean code & maintainability**
+* 🐳 Working with **Docker, Linux, Git & CI/CD fundamentals**
+* 🤖 Using AI tools to accelerate development while maintaining strong fundamentals
+* 🌍 Open to **software engineering opportunities, collaboration & challenging projects**
 
 ---
 
 ## 🛠️ Tech Stack
 
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
+</p>
+
 ### 🎨 Frontend
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
 </p>
 
 ### ⚙️ Backend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi" />
 </p>
 
-### 🧰 Tools & Workflow
+### 🗄️ Database
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=postgresql" />
+</p>
+
+### 🧰 DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma" />
 </p>
 
 ---
 
+## 🧠 Core Engineering Skills
+
+### Data Structures & Algorithms
+
+* Arrays & Strings
+* Linked Lists
+* Stack & Queue
+* Trees & Heaps
+* Graphs
+* BFS / DFS
+* Binary Search
+* Sorting Algorithms
+* Two Pointers
+* Sliding Window
+* Prefix Sum
+* Dynamic Programming
+* Greedy Algorithms
+* DSU / Union-Find
+* Time & Space Complexity
+
+### Software Engineering
+
+* Object-Oriented Programming
+* Clean Code
+* SOLID Principles
+* Design Patterns
+* Git & GitHub
+* Code Review
+* Unit Testing
+* Integration Testing
+* Debugging
+* Logging
+* Documentation
+* REST API Design
+* Authentication & Authorization
+
+### System Design
+
+* Client–Server Architecture
+* Scalability
+* Load Balancing
+* Caching
+* Database Scaling
+* Message Queues
+* API Architecture
+* Monolith vs Microservices
+* Horizontal vs Vertical Scaling
+
+---
+
 ## 📌 Featured Work
-Projects that demonstrate **full-stack thinking**:
 
-- 🔹 Responsive Frontend UI Projects  
-- 🔹 JavaScript Logic & DOM Manipulation  
-- 🔹 React Apps (Hooks, State, Components)  
-- 🔹 Backend APIs (CRUD, REST, Auth Basics)  
-- 🔹 Full-Stack Mini Apps (Client + Server)
+Projects that demonstrate **real software engineering and end-to-end development**:
 
-⬇️ **Check pinned repositories below** ⬇️
+* 🔹 **Full-Stack Web Applications**
+* 🔹 **REST API Systems**
+* 🔹 **Authentication & Authorization Systems**
+* 🔹 **Database-Driven Applications**
+* 🔹 **Python & FastAPI Backend Projects**
+* 🔹 **React Frontend Applications**
+* 🔹 **OOP-Based Software Systems**
+* 🔹 **Algorithmic Problem-Solving Projects**
+* 🔹 **Dockerized Applications**
+* 🔹 **Production-Style Applications**
+
+⬇️ **Explore my pinned repositories below.**
+
+---
+
+## 🏗️ Development Architecture
+
+A typical full-stack application I build follows:
+
+```text
+┌─────────────────────┐
+│       React         │
+│      Frontend       │
+└──────────┬──────────┘
+           │
+           │ REST API
+           ▼
+┌─────────────────────┐
+│      FastAPI        │
+│       Backend       │
+└──────────┬──────────┘
+           │
+           │ SQL / ORM
+           ▼
+┌─────────────────────┐
+│     PostgreSQL      │
+│      Database       │
+└─────────────────────┘
+           │
+           ▼
+┌─────────────────────┐
+│ Docker + Cloud      │
+│ Deployment          │
+└─────────────────────┘
+```
 
 ---
 
 ## 📊 GitHub Stats
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naimulislammehedi&show_icons=true&theme=tokyonight" />
-</p> -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naimulislammehedi&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-<!-- <p align="center">
-  <img src="https://streak-stats.demolab.com?user=naimulislammehedi&theme=tokyonight" />
-</p> -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=naimulislammehedi&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=naimulislammehedi&theme=tokyo-night&hide_border=true" />
@@ -72,19 +185,101 @@ Projects that demonstrate **full-stack thinking**:
 
 ---
 
-## 🏆 Progress Signals
-- ✅ Consistent GitHub contributions  
-- ✅ Frontend + backend learning in parallel  
-- ✅ Increasing project complexity  
-- ✅ Clean repo structure & meaningful commits  
+## 🏆 Engineering Progress
+
+* ✅ Programming fundamentals with C
+* ✅ C++ for DSA
+* ✅ Data Structures & Algorithms
+* ✅ Advanced Algorithms
+* ✅ Competitive Programming fundamentals
+* ✅ Python Programming
+* ✅ Object-Oriented Programming
+* ✅ PostgreSQL & Database Engineering
+* ✅ HTML / CSS / JavaScript
+* ✅ React
+* ✅ FastAPI Backend Development
+* ✅ REST API Development
+* ✅ Authentication & Authorization
+* ✅ Testing & Debugging
+* ✅ Docker & Deployment
+* ✅ Software Engineering Fundamentals
+* ✅ System Design Fundamentals
 
 ---
 
-## 🧭 Learning Roadmap
-- 🔜 Advanced React patterns  
-- 🔜 Authentication & Authorization  
-- 🔜 Backend architecture & best practices  
-- 🔜 Production-ready full-stack apps  
+## 🧭 Current Engineering Focus
+
+### 🔥 Building
+
+* Production-style full-stack applications
+* Scalable REST APIs
+* Database-driven systems
+* Backend architecture
+* Dockerized applications
+
+### 🧠 Improving
+
+* Advanced system design
+* Software architecture
+* Performance optimization
+* Cloud infrastructure
+* Distributed systems
+* Advanced algorithms
+
+---
+
+## 🤖 AI-Assisted Development
+
+I use AI as an **engineering accelerator**, not as a replacement for understanding.
+
+My approach:
+
+```text
+Problem
+   ↓
+Understand
+   ↓
+Design
+   ↓
+Implement
+   ↓
+AI-Assisted Review
+   ↓
+Test
+   ↓
+Debug
+   ↓
+Optimize
+   ↓
+Deploy
+```
+
+I focus on understanding **why the code works**, not simply generating code that works.
+
+---
+
+## 🌐 Development Philosophy
+
+> **Build systems, not just features.**
+
+Good software should be:
+
+**Readable → Testable → Maintainable → Scalable → Reliable**
+
+---
+
+## 💼 Open to Opportunities
+
+I’m interested in roles such as:
+
+* 💻 Software Engineer
+* ⚙️ Software Developer
+* 🐍 Python Developer
+* 🔧 Backend Developer
+* 🌐 Full-Stack Developer
+* 🧪 QA Automation Engineer
+
+I’m also open to collaborating on **interesting software projects and open-source initiatives**.
 
 ---
 
@@ -109,13 +304,23 @@ Projects that demonstrate **full-stack thinking**:
 </p>
 
 ---
+
 <!--
 ## 🐍 Contribution Snake
- <p align="center">
-  <img src="https://raw.githubusercontent.com/naimulislammehedi/naimulislammehedi/output/github-contribution-grid-snake.svg" />
-</p> 
 
---- -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/naimulislammehedi/naimulislammehedi/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+-->
 
 ## ⚡ Developer Mindset
-> *“Understand the whole system. Build end-to-end. Improve every iteration.”*
+
+> *“Understand the problem. Design the system. Build it well. Keep improving.”*
+
+---
+
+<p align="center">
+  <b>🚀 Learn • Build • Solve • Ship • Improve</b>
+</p>
