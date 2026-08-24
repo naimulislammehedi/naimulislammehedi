@@ -171,13 +171,13 @@ A typical full-stack application I build follows:
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naimulislammehedi&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=naimulislammehedi&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=naimulislammehedi&theme=tokyo-night&hide_border=true" />
