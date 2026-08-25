@@ -241,12 +241,7 @@ The principle is simple:
 # 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naimulislammehedi&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimulislammehedi&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=naimulislammehedi&theme=tokyonight&hide_border=true" height="180" />
+  <img src="./assets/github-stats.svg" alt="GitHub Statistics" />
 </p>
 
 ---
