@@ -1,10 +1,8 @@
 # 👋 Hi, I'm Mehedi
 
-### Software Engineer · Full-Stack Developer · Python Backend Engineer
-
-I build **reliable, maintainable software** with a focus on backend engineering, full-stack development, databases, and problem solving.
-
-Currently focused on **Python, FastAPI, React, PostgreSQL, Docker, Linux, and software engineering fundamentals**.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=900&color=4A90E2&center=true&vCenter=true&width=900&lines=Software+Engineer+%F0%9F%9A%80;Full-Stack+Developer;Python+Backend+Engineer;FastAPI+%7C+React+%7C+PostgreSQL;Building+Real-World+Software;Learning+System+Design;Solving+Problems+with+Code" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://github.com/naimulislammehedi">
@@ -22,345 +20,335 @@ Currently focused on **Python, FastAPI, React, PostgreSQL, Docker, Linux, and so
 
 ## 🧑‍💻 About Me
 
-* 💻 Software Engineer focused on **backend and full-stack development**
-* 🐍 Building backend systems with **Python & FastAPI**
-* ⚛️ Building modern interfaces with **React & JavaScript**
-* 🗄️ Designing relational databases with **PostgreSQL**
-* 🧠 Practicing **Data Structures & Algorithms**
-* 🏗️ Learning **System Design & Software Architecture**
-* 🐳 Working with **Docker & Linux**
-* 🧪 Improving testing, debugging, documentation, and code quality
-* 🤖 Using AI as a development accelerator — not a replacement for fundamentals
-* 🌍 Open to software engineering opportunities and collaboration
+```text
+Software Engineer
+      │
+      ├── Backend
+      │     ├── Python
+      │     ├── FastAPI
+      │     └── PostgreSQL
+      │
+      ├── Frontend
+      │     ├── React
+      │     ├── JavaScript
+      │     └── Tailwind CSS
+      │
+      ├── Engineering
+      │     ├── DSA
+      │     ├── OOP
+      │     ├── System Design
+      │     └── Clean Architecture
+      │
+      └── Infrastructure
+            ├── Linux
+            ├── Docker
+            └── Git
+```
+
+* 💻 Building **full-stack and backend applications**
+* 🐍 Python & FastAPI enthusiast
+* ⚛️ React & modern frontend development
+* 🗄️ PostgreSQL & relational database design
+* 🧠 Data Structures & Algorithms
+* 🏗️ Software Architecture & System Design
+* 🐳 Docker & Linux
+* 🤖 AI-assisted development
+* 🚀 Focused on becoming a stronger software engineer every day
 
 ---
 
 # 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
 </p>
 
-### Frontend
+### 🎨 Frontend
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
 </p>
 
-### Backend
+### ⚙️ Backend
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi" />
 </p>
 
-### Database
+### 🗄️ Database
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=postgresql" />
 </p>
 
-### DevOps & Tools
+### 🧰 Tools & Infrastructure
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
 </p>
 
 ---
 
-# 🧠 Engineering Fundamentals
+# 🧠 Core Engineering Skills
 
-## Data Structures & Algorithms
+### Data Structures & Algorithms
 
-* Arrays & Strings
-* Linked Lists
-* Stacks & Queues
-* Trees & Heaps
-* Graphs
-* BFS / DFS
-* Binary Search
-* Sorting Algorithms
-* Two Pointers
-* Sliding Window
-* Prefix Sum
-* Greedy Algorithms
-* Dynamic Programming
-* Union-Find
-* Time & Space Complexity
+```text
+Arrays
+Strings
+Linked Lists
+Stacks
+Queues
+Trees
+Heaps
+Graphs
+BFS / DFS
+Binary Search
+Sorting
+Two Pointers
+Sliding Window
+Prefix Sum
+Greedy
+Dynamic Programming
+Union-Find
+Complexity Analysis
+```
 
-## Software Engineering
+### Software Engineering
 
-* Object-Oriented Programming
-* SOLID Principles
-* Clean Code
-* Design Patterns
-* REST API Design
-* Authentication & Authorization
-* Unit Testing
-* Integration Testing
-* Debugging
-* Logging
-* Documentation
-* Git & GitHub
-* Code Review
+```text
+OOP
+SOLID
+Clean Code
+Design Patterns
+REST APIs
+Authentication
+Authorization
+Testing
+Debugging
+Logging
+Documentation
+Code Review
+Git
+```
 
-## System Design
+### System Design
 
-* Client–Server Architecture
-* API Architecture
-* Database Design
-* Caching
-* Load Balancing
-* Message Queues
-* Horizontal & Vertical Scaling
-* Monolith vs Microservices
-* Distributed Systems Fundamentals
+```text
+Client → Server Architecture
+API Design
+Database Design
+Caching
+Load Balancing
+Message Queues
+Horizontal Scaling
+Vertical Scaling
+Monolith
+Microservices
+Distributed Systems
+```
 
 ---
 
 # 🚀 Featured Projects
 
-I focus on projects that demonstrate **real engineering decisions, architecture, and problem solving**.
+> Building projects that demonstrate **engineering ability, not just tutorials.**
 
-### 🛒 Full-Stack Web Application
+### 🛒 Full-Stack Application
 
 **React · FastAPI · PostgreSQL · Docker**
 
-A full-stack application demonstrating:
+```text
+React
+  ↓
+REST API
+  ↓
+FastAPI
+  ↓
+PostgreSQL
+  ↓
+Docker
+```
 
-* REST API architecture
+Features:
+
 * Authentication & authorization
-* Relational database design
-* Frontend/backend integration
+* REST API
+* Database modeling
 * Input validation
 * Error handling
+* Frontend/backend integration
 * Dockerized development
 
-**Repository:** Coming Soon
+🔗 **Repository:** Coming Soon
 
 ---
 
-### ⚡ FastAPI Backend System
+### ⚡ FastAPI Backend
 
 **Python · FastAPI · PostgreSQL**
 
-Backend-focused application demonstrating:
+Focused on:
 
-* RESTful API architecture
+* API architecture
 * Database modeling
 * Authentication
-* Request validation
+* Validation
 * Error handling
-* Modular architecture
-* Automated testing
+* Testing
+* Modular backend structure
 
-**Repository:** Coming Soon
+🔗 **Repository:** Coming Soon
 
 ---
 
-### 🧩 DSA & Problem Solving
+### 🧩 DSA Practice
 
 **C++ · Python**
 
-A structured collection of algorithmic problems covering:
+```text
+Problem
+   ↓
+Analyze
+   ↓
+Choose Data Structure
+   ↓
+Design Algorithm
+   ↓
+Implement
+   ↓
+Analyze Complexity
+   ↓
+Optimize
+```
 
-* Data Structures
-* Algorithms
-* Complexity Analysis
-* Problem Solving
-* Competitive Programming fundamentals
-
-**Repository:** Coming Soon
+🔗 **Repository:** Coming Soon
 
 ---
 
 # 🏗️ Development Architecture
 
-A typical application architecture I work with:
-
 ```text
-┌─────────────────────────┐
-│        React            │
-│       Frontend          │
-└────────────┬────────────┘
-             │
-             │ REST API
-             ▼
-┌─────────────────────────┐
-│       FastAPI           │
-│        Backend          │
-└────────────┬────────────┘
-             │
-             │ SQL / ORM
-             ▼
-┌─────────────────────────┐
-│      PostgreSQL         │
-│        Database         │
-└────────────┬────────────┘
-             │
-             ▼
-┌─────────────────────────┐
-│    Docker / Linux       │
-│       Deployment        │
-└─────────────────────────┘
+                 ┌─────────────────┐
+                 │     React       │
+                 │    Frontend     │
+                 └────────┬────────┘
+                          │
+                          │ REST API
+                          ▼
+                 ┌─────────────────┐
+                 │    FastAPI      │
+                 │     Backend     │
+                 └────────┬────────┘
+                          │
+                          │ SQL / ORM
+                          ▼
+                 ┌─────────────────┐
+                 │   PostgreSQL    │
+                 │    Database     │
+                 └────────┬────────┘
+                          │
+                          ▼
+                 ┌─────────────────┐
+                 │ Docker / Linux  │
+                 │   Deployment    │
+                 └─────────────────┘
 ```
 
 ---
 
-# 🔄 Engineering Workflow
+# 🤖 AI-Assisted Engineering
 
-```text
-Understand
-    ↓
-Define Requirements
-    ↓
-Design
-    ↓
-Implement
-    ↓
-Test
-    ↓
-Debug
-    ↓
-Optimize
-    ↓
-Document
-    ↓
-Deploy
-```
-
-My goal is to build software that is:
-
-**Readable → Testable → Maintainable → Reliable**
-
----
-
-# 🤖 AI-Assisted Development
-
-I use AI to accelerate engineering work while maintaining ownership of the implementation.
-
-```text
-Problem
-   ↓
-Understand
-   ↓
-Design
-   ↓
-Implement
-   ↓
-AI-Assisted Review
-   ↓
-Test
-   ↓
-Debug
-   ↓
-Optimize
-   ↓
-Ship
-```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=700&color=8B5CF6&center=true&vCenter=true&width=700&lines=AI+is+my+accelerator%2C+not+my+replacement.;Understand+%E2%86%92+Design+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Ship" />
+</p>
 
 I use AI for:
 
-* Exploring implementation approaches
 * Debugging
 * Code review
 * Documentation
 * Test generation
-* Learning unfamiliar APIs
+* Exploring implementation strategies
+* Learning unfamiliar technologies
 
 > **If I cannot explain the code, I don't consider the problem solved.**
 
 ---
 
-# 📚 Engineering Progress
+# 📈 GitHub Activity
 
-### Programming
+### Contribution Graph
 
-* ✅ C Programming
-* ✅ C++
-* ✅ Object-Oriented Programming
-* ✅ Data Structures
-* ✅ Algorithms
-* 🔄 Advanced Problem Solving
+Your **official GitHub contribution graph** is already displayed automatically on your GitHub profile.
 
-### Web Development
+Instead of using unstable third-party graph images, this README links directly to it:
 
-* ✅ HTML
-* ✅ CSS
-* ✅ JavaScript
-* ✅ React
-* ✅ REST APIs
-* 🔄 Advanced Frontend Engineering
+<p align="center">
+  <a href="https://github.com/naimulislammehedi">
+    <img src="https://img.shields.io/badge/View_My_Contribution_Graph-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-### Backend
+### GitHub Profile
 
-* ✅ Python
-* ✅ FastAPI
-* ✅ PostgreSQL
-* ✅ Database Design
-* 🔄 Advanced Backend Architecture
-
-### Engineering
-
-* ✅ Git & GitHub
-* ✅ Linux
-* ✅ Docker
-* 🔄 Testing
-* 🔄 System Design
-* 🔄 Distributed Systems
-* 🔄 Cloud Infrastructure
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=naimulislammehedi&style=for-the-badge&color=4A90E2&label=PROFILE+VIEWS" />
+</p>
 
 ---
 
 # 🎯 Current Focus
 
-```text
-Backend Engineering
-        ↓
-FastAPI + PostgreSQL
-        ↓
-Software Architecture
-        ↓
-System Design
-        ↓
-Distributed Systems
-        ↓
-Cloud & DevOps
-```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2300&pause=800&color=22C55E&center=true&vCenter=true&width=850&lines=Backend+Engineering;FastAPI+%2B+PostgreSQL;Advanced+DSA;System+Design;Software+Architecture;Distributed+Systems;Cloud+%26+DevOps" />
+</p>
 
-Currently improving:
+### Currently Improving
 
-* Data Structures & Algorithms
-* Backend Architecture
-* Database Engineering
-* API Design
-* System Design
-* Performance Optimization
-* Testing
-* Linux
-* Docker
-* Cloud Infrastructure
+* 🧠 Data Structures & Algorithms
+* ⚙️ Backend Architecture
+* 🗄️ Database Engineering
+* 🏗️ System Design
+* 🚀 Performance Optimization
+* 🧪 Automated Testing
+* 🐳 Docker
+* 🐧 Linux
+* ☁️ Cloud Infrastructure
 
 ---
 
-# 📊 GitHub Activity
+# 📚 Learning Roadmap
 
-I intentionally don't use third-party GitHub statistics images here.
-
-GitHub already provides the **official contribution graph, repositories, activity, and contribution history** directly on the profile.
-
-<p align="center">
-
-<a href="https://github.com/naimulislammehedi">
-  <img src="https://img.shields.io/github/followers/naimulislammehedi?style=for-the-badge&logo=github&label=Followers" />
-</a>
-
-<a href="https://github.com/naimulislammehedi?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-View-blue?style=for-the-badge&logo=github" />
-</a>
-
-</p>
+```text
+Programming
+     │
+     ▼
+Data Structures & Algorithms
+     │
+     ▼
+Web Development
+     │
+     ▼
+Backend Engineering
+     │
+     ▼
+Database Engineering
+     │
+     ▼
+System Design
+     │
+     ▼
+Distributed Systems
+     │
+     ▼
+Cloud & DevOps
+     │
+     ▼
+Software Engineer
+```
 
 ---
 
@@ -368,14 +356,14 @@ GitHub already provides the **official contribution graph, repositories, activit
 
 Interested in:
 
-* Software Engineer
-* Backend Engineer
-* Python Developer
-* Full-Stack Developer
-* Software Developer
-* API / Backend Development
+* 💻 Software Engineer
+* ⚙️ Backend Engineer
+* 🐍 Python Developer
+* 🌐 Full-Stack Developer
+* 🔧 Software Developer
+* 🏗️ Backend / API Engineering
 
-Also open to collaborating on **interesting software projects and open-source initiatives**.
+Also open to **interesting software projects, collaboration, and open-source contributions.**
 
 ---
 
@@ -409,7 +397,11 @@ Also open to collaborating on **interesting software projects and open-source in
 
 # ⚡ Engineering Philosophy
 
-> **Understand deeply. Design deliberately. Build reliably.**
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=800&lines=Understand+Deeply.;Design+Deliberately.;Build+Reliably.;Test+Thoroughly.;Ship+Confidently.;Keep+Improving." />
+
+</p>
 
 <p align="center">
   <b>Learn · Build · Solve · Ship · Improve</b>
