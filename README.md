@@ -1,238 +1,207 @@
-# 👋 Hi, I’m Mehedi
+# 👋 Hi, I'm Mehedi
 
-### Software Engineer | Full-Stack Developer | Python Backend Developer
+### Software Engineer · Full-Stack Developer · Python Backend Engineer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=24\&duration=3000\&pause=800\&color=4A90E2\&center=true\&vCenter=true\&width=900\&lines=Software+Engineer+%F0%9F%9A%80;Full-Stack+%7C+Backend+%7C+Python;Building+Scalable+%26+Production-Ready+Systems;DSA+%7C+System+Design+%7C+Software+Engineering)](https://git.io/typing-svg)
+I build **reliable, maintainable software** with a strong focus on backend engineering, full-stack development, databases, and problem solving.
 
----
-
-## 🧠 Developer Snapshot
+Currently focused on building real-world applications with **Python, FastAPI, React, PostgreSQL, Docker, and modern software engineering practices.**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend-Python%20%7C%20FastAPI-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mindset-System%20Thinking-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Building%20%26%20Improving-orange?style=for-the-badge" />
+  <a href="https://github.com/naimulislammehedi">
+    <img src="https://komarev.com/ghpvc/?username=naimulislammehedi&style=flat-square&color=blue" alt="Profile views"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About
 
-* 💻 Software Engineer focused on **full-stack and backend development**
-* 🐍 Building backend systems with **Python & FastAPI**
-* ⚛️ Building modern web interfaces with **React & JavaScript**
-* 🗄️ Designing relational databases with **PostgreSQL**
-* 🧠 Strong foundation in **C/C++, DSA, algorithms & problem solving**
-* 🏗️ Interested in **software architecture, scalable systems & system design**
-* 🧪 Focused on **testing, debugging, clean code & maintainability**
-* 🐳 Working with **Docker, Linux, Git & CI/CD fundamentals**
-* 🤖 Using AI tools to accelerate development while maintaining strong fundamentals
-* 🌍 Open to **software engineering opportunities, collaboration & challenging projects**
+* 🔭 Building **full-stack and backend applications**
+* 🐍 Backend development with **Python & FastAPI**
+* ⚛️ Frontend development with **React & JavaScript**
+* 🗄️ Database design with **PostgreSQL**
+* 🧠 Practicing **Data Structures & Algorithms**
+* 🏗️ Learning **System Design & Software Architecture**
+* 🐳 Containerizing applications with **Docker**
+* 🐧 Working in **Linux-based development environments**
+* 🧪 Focused on **testing, debugging, documentation, and maintainable code**
+* 🤖 Using AI as a development accelerator while keeping engineering fundamentals first
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
-</p>
-
-### 🎨 Frontend
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
 </p>
 
-### ⚙️ Backend
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
+</p>
+
+### Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,fastapi" />
 </p>
 
-### 🗄️ Database
+### Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgresql" />
 </p>
 
-### 🧰 DevOps & Tools
+### DevOps & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
 </p>
 
 ---
 
-## 🧠 Core Engineering Skills
+# 🧠 Engineering Fundamentals
 
 ### Data Structures & Algorithms
 
 * Arrays & Strings
 * Linked Lists
-* Stack & Queue
+* Stacks & Queues
 * Trees & Heaps
 * Graphs
 * BFS / DFS
 * Binary Search
-* Sorting Algorithms
+* Sorting
 * Two Pointers
 * Sliding Window
 * Prefix Sum
-* Dynamic Programming
 * Greedy Algorithms
-* DSU / Union-Find
+* Dynamic Programming
+* Union-Find
 * Time & Space Complexity
 
 ### Software Engineering
 
 * Object-Oriented Programming
-* Clean Code
 * SOLID Principles
+* Clean Code
 * Design Patterns
-* Git & GitHub
-* Code Review
+* REST API Design
+* Authentication & Authorization
 * Unit Testing
 * Integration Testing
 * Debugging
 * Logging
 * Documentation
-* REST API Design
-* Authentication & Authorization
+* Git & GitHub
+* Code Review
 
 ### System Design
 
 * Client–Server Architecture
-* Scalability
-* Load Balancing
+* API Design
+* Database Design
 * Caching
-* Database Scaling
+* Load Balancing
 * Message Queues
-* API Architecture
+* Horizontal & Vertical Scaling
 * Monolith vs Microservices
-* Horizontal vs Vertical Scaling
+* Distributed Systems Fundamentals
 
 ---
 
-## 📌 Featured Work
+# 🚀 Featured Projects
 
-Projects that demonstrate **real software engineering and end-to-end development**:
+> I prefer projects that demonstrate **engineering decisions, architecture, and problem solving** rather than simple tutorials.
 
-* 🔹 **Full-Stack Web Applications**
-* 🔹 **REST API Systems**
-* 🔹 **Authentication & Authorization Systems**
-* 🔹 **Database-Driven Applications**
-* 🔹 **Python & FastAPI Backend Projects**
-* 🔹 **React Frontend Applications**
-* 🔹 **OOP-Based Software Systems**
-* 🔹 **Algorithmic Problem-Solving Projects**
-* 🔹 **Dockerized Applications**
-* 🔹 **Production-Style Applications**
+### 🛒 Full-Stack Application
 
-⬇️ **Explore my pinned repositories below.**
+**React · FastAPI · PostgreSQL · Docker**
+
+A production-style web application demonstrating:
+
+* REST API architecture
+* Authentication & authorization
+* Relational database design
+* Frontend/backend integration
+* Input validation
+* Error handling
+* Dockerized development
+
+🔗 **Repository:** `Coming Soon`
 
 ---
 
-## 🏗️ Development Architecture
+### ⚡ FastAPI Backend System
 
-A typical full-stack application I build follows:
+**Python · FastAPI · PostgreSQL**
+
+Backend-focused application designed around:
+
+* RESTful API architecture
+* Database modeling
+* Authentication
+* Request validation
+* Error handling
+* Modular project structure
+* Automated testing
+
+🔗 **Repository:** `Coming Soon`
+
+---
+
+### 🧩 Algorithm & DSA Practice
+
+**C++ · Python**
+
+A structured collection of algorithmic problems covering:
+
+* Data Structures
+* Algorithms
+* Complexity Analysis
+* Problem Solving
+* Competitive Programming fundamentals
+
+🔗 **Repository:** `Coming Soon`
+
+---
+
+# 🏗️ Engineering Approach
+
+I approach software development as a process rather than simply writing code.
 
 ```text
-┌─────────────────────┐
-│       React         │
-│      Frontend       │
-└──────────┬──────────┘
-           │
-           │ REST API
-           ▼
-┌─────────────────────┐
-│      FastAPI        │
-│       Backend       │
-└──────────┬──────────┘
-           │
-           │ SQL / ORM
-           ▼
-┌─────────────────────┐
-│     PostgreSQL      │
-│      Database       │
-└─────────────────────┘
-           │
-           ▼
-┌─────────────────────┐
-│ Docker + Cloud      │
-│ Deployment          │
-└─────────────────────┘
+Understand
+    ↓
+Define Requirements
+    ↓
+Design
+    ↓
+Implement
+    ↓
+Test
+    ↓
+Debug
+    ↓
+Optimize
+    ↓
+Document
+    ↓
+Deploy
 ```
 
----
+My goal is to build software that is:
 
-## 📊 GitHub Stats
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naimulislammehedi&show_icons=true&theme=tokyonight&hide_border=true" />
-</p> -->
-
-<!-- <p align="center">
-  <img src="https://streak-stats.demolab.com?user=naimulislammehedi&theme=tokyonight&hide_border=true" />
-</p> -->
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naimulislammehedi&theme=tokyo-night&hide_border=true" />
-</p>
+**Readable → Testable → Maintainable → Reliable**
 
 ---
 
-## 🏆 Engineering Progress
+# 🤖 AI-Assisted Engineering
 
-* ✅ Programming fundamentals with C
-* ✅ C++ for DSA
-* ✅ Data Structures & Algorithms
-* ✅ Advanced Algorithms
-* ✅ Competitive Programming fundamentals
-* ✅ Python Programming
-* ✅ Object-Oriented Programming
-* ✅ PostgreSQL & Database Engineering
-* ✅ HTML / CSS / JavaScript
-* ✅ React
-* ✅ FastAPI Backend Development
-* ✅ REST API Development
-* ✅ Authentication & Authorization
-* ✅ Testing & Debugging
-* ✅ Docker & Deployment
-* ✅ Software Engineering Fundamentals
-* ✅ System Design Fundamentals
-
----
-
-## 🧭 Current Engineering Focus
-
-### 🔥 Building
-
-* Production-style full-stack applications
-* Scalable REST APIs
-* Database-driven systems
-* Backend architecture
-* Dockerized applications
-
-### 🧠 Improving
-
-* Advanced system design
-* Software architecture
-* Performance optimization
-* Cloud infrastructure
-* Distributed systems
-* Advanced algorithms
-
----
-
-## 🤖 AI-Assisted Development
-
-I use AI as an **engineering accelerator**, not as a replacement for understanding.
-
-My approach:
+AI is part of my development workflow, but it doesn't replace understanding.
 
 ```text
 Problem
@@ -251,76 +220,147 @@ Debug
    ↓
 Optimize
    ↓
-Deploy
+Ship
 ```
 
-I focus on understanding **why the code works**, not simply generating code that works.
+I use AI for:
+
+* Exploring implementation approaches
+* Debugging assistance
+* Code review
+* Documentation
+* Test generation
+* Learning unfamiliar APIs
+
+The principle is simple:
+
+> **If I cannot explain the code, I don't consider the problem solved.**
 
 ---
 
-## 🌐 Development Philosophy
-
-> **Build systems, not just features.**
-
-Good software should be:
-
-**Readable → Testable → Maintainable → Scalable → Reliable**
-
----
-
-## 💼 Open to Opportunities
-
-I’m interested in roles such as:
-
-* 💻 Software Engineer
-* ⚙️ Software Developer
-* 🐍 Python Developer
-* 🔧 Backend Developer
-* 🌐 Full-Stack Developer
-* 🧪 QA Automation Engineer
-
-I’m also open to collaborating on **interesting software projects and open-source initiatives**.
-
----
-
-## 🌐 Connect With Me
+# 📈 GitHub Activity
 
 <p align="center">
-  <a href="mailto:mehedi.interface@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/naimulislammehedi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/naimulislammehedi1/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@naimulislammehedi" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://github.com/naimulislammehedi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=naimulislammehedi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimulislammehedi&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=naimulislammehedi&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<!--
-## 🐍 Contribution Snake
+# 🎯 Current Focus
+
+```text
+Backend Engineering
+        ↓
+FastAPI + PostgreSQL
+        ↓
+System Design
+        ↓
+Distributed Systems
+        ↓
+Cloud & DevOps
+```
+
+Alongside this, I'm continuously improving:
+
+* Data Structures & Algorithms
+* Software Architecture
+* Database Engineering
+* API Design
+* Performance Optimization
+* Testing
+* Linux
+* Docker
+* Cloud Infrastructure
+
+---
+
+# 📚 Engineering Progress
+
+### Foundations
+
+* ✅ C Programming
+* ✅ C++ & OOP
+* ✅ Data Structures
+* ✅ Algorithms
+* ✅ Problem Solving
+
+### Web Engineering
+
+* ✅ HTML
+* ✅ CSS
+* ✅ JavaScript
+* ✅ React
+* ✅ REST APIs
+* ✅ Authentication
+
+### Backend Engineering
+
+* ✅ Python
+* ✅ FastAPI
+* ✅ PostgreSQL
+* ✅ Database Design
+* ✅ API Architecture
+
+### Engineering Practices
+
+* ✅ Git & GitHub
+* ✅ Linux
+* ✅ Docker
+* 🔄 Testing
+* 🔄 System Design
+* 🔄 Distributed Systems
+* 🔄 Cloud Infrastructure
+
+---
+
+# 💼 Open to Opportunities
+
+I'm interested in opportunities involving:
+
+* Software Engineering
+* Backend Engineering
+* Python Development
+* Full-Stack Development
+* API Development
+* Software Development
+
+I'm also open to collaborating on **interesting software projects and open-source work.**
+
+---
+
+# 📫 Connect
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/naimulislammehedi/naimulislammehedi/output/github-contribution-grid-snake.svg" />
+
+<a href="mailto:mehedi.interface@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/naimulislammehedi/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/naimulislammehedi">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@naimulislammehedi">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
 </p>
 
 ---
--->
 
-## ⚡ Developer Mindset
+## ⚡ Engineering Philosophy
 
-> *“Understand the problem. Design the system. Build it well. Keep improving.”*
-
----
+> **Understand deeply. Design deliberately. Build reliably.**
 
 <p align="center">
-  <b>🚀 Learn • Build • Solve • Ship • Improve</b>
+  <b>Learn · Build · Solve · Ship · Improve</b>
 </p>
